@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;naukaSwing&apos;" deleteContents="false" description="Delete resource &apos;naukaSwing&apos;" element1="/naukaSwing" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1548284145185"/>
+</session>
